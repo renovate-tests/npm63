@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "chalk": "2.0.0",
     "got": "10.0.0",
     "renovate": "25.0.0"
