@@ -1,1 +1,6 @@
-
+{
+  "extends": ["config:base"],
+  "branchConcurrentLimit": 3,
+  "prConcurrentLimit": 3,
+  "semanticCommits": true
+}
